@@ -1,7 +1,7 @@
 # The code of Detection Network for multi-size and multi-target tea bud leaves in the field of view
 
 ## Introduction
-We have provided PyTorch-based YOLOv7 code along with modules for multi-object, multi-scale detection. The SKAttention module, multi-feature fusion module, and loss function module have been designed in a more user-friendly format and placed within the 'modules' folder. These can be inserted into the code files in the 'nets' folder, allowing for flexible experimentation with more possibilities in other similar research endeavors.
+We have provided PyTorch-based YOLOv7 code along with modules for multi-object, multi-scale detection. The SKAttention module, multi-feature fusion module, and loss function module have been designed in a more user-friendly format and placed within the "modules" folder. These can be inserted into the code files in the "nets" folder, allowing for flexible experimentation with more possibilities in other similar research endeavors.
 
 ## Prerequisites
 To reference the functionality library, please consult the 'requirements.txt' file.
