@@ -30,7 +30,7 @@ code: pmua
 ```
 
 ## Reference
-https://github.com/WongKinYiu/yolov7
-https://github.com/augmentedstartups/yolov7
-https://github.com/AshesBen/citrus-detection-localization
-https://github.com/augmentedstartups
+https://github.com/WongKinYiu/yolov7  
+https://github.com/augmentedstartups/yolov7  
+https://github.com/AshesBen/citrus-detection-localization  
+https://github.com/augmentedstartups  
