@@ -9,14 +9,19 @@ To reference the functionality library, please consult the 'requirements.txt' fi
 ## Data preparation
 Using your research data in VOCdevkit.
 
-## Training model
-The original model is YOLOv7, and the functional modules are in Tea_detection/modules. You can incorporate improvements into the respective backbone，yolo and yolo_training in "nets" folder.
-The file used for training is 'train.py'
-
 ## Yolov7 pre-training weight
 The weight required for pre-training can be downloaded in Baidu web disk.  
 link: https://pan.baidu.com/s/1uYpjWC1uOo3Q-klpUEy9LQ     
 code: pmua    
+
+## Training model
+The original model is YOLOv7, and the functional modules are in Tea_detection/modules. You can incorporate improvements into the respective backbone，yolo and yolo_training in "nets" folder.
+The file used for training is 'train.py'
+
+## Video demo
+```
+https://www.bilibili.com/video/BV1A4421A72f/?spm_id_from=333.999.0.0&vd_source=d787a1c2da2e295508a37e23b2000370
+```
 
 ## Cite tea detection network
 ```
