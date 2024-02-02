@@ -29,7 +29,7 @@ code: pmua
 }
 
 
-```python
+```
 # 这是一个简单的Python代码示例
 @article{
   title = {Detection Network for multi-size and multi-target tea bud leaves in the field of view via improved YOLOv7},
