@@ -19,18 +19,7 @@ link: https://pan.baidu.com/s/1uYpjWC1uOo3Q-klpUEy9LQ
 code: pmua    
 
 ## Cite tea detection network
-'''
-@article{
-  title = {Detection Network for multi-size and multi-target tea bud leaves in the field of view via improved YOLOv7},
-  journal = {Computers and Electronics in Agriculture},
-  year = {2024},
-  issn = {0168-1699},
-  author = {Tianci Chen, Haoxin Li, Jiazheng Chen, Zhiheng Zeng, Chongyang Han, Weibin Wu}
-}
-
-
 ```
-# 这是一个简单的Python代码示例
 @article{
   title = {Detection Network for multi-size and multi-target tea bud leaves in the field of view via improved YOLOv7},
   journal = {Computers and Electronics in Agriculture},
@@ -38,6 +27,7 @@ code: pmua
   issn = {0168-1699},
   author = {Tianci Chen, Haoxin Li, Jiazheng Chen, Zhiheng Zeng, Chongyang Han, Weibin Wu}
 }
+```
 
 ## Reference
 https://github.com/WongKinYiu/yolov7
