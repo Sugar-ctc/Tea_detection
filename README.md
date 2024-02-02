@@ -19,7 +19,8 @@ link: https://pan.baidu.com/s/1uYpjWC1uOo3Q-klpUEy9LQ
 code: pmua    
 
 ## Cite tea detection network
-'''@article{
+'''
+@article{
   title = {Detection Network for multi-size and multi-target tea bud leaves in the field of view via improved YOLOv7},
   journal = {Computers and Electronics in Agriculture},
   year = {2024},
