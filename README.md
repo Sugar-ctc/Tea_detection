@@ -28,6 +28,15 @@ code: pmua
   author = {Tianci Chen, Haoxin Li, Jiazheng Chen, Zhiheng Zeng, Chongyang Han, Weibin Wu}
 }
 
+
+```python
+# 这是一个简单的Python代码示例
+def hello_world():
+    print("Hello, World!")
+ 
+if __name__ == "__main__":
+    hello_world()
+
 ## Reference
 https://github.com/WongKinYiu/yolov7
 https://github.com/augmentedstartups/yolov7
