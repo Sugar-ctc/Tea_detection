@@ -31,11 +31,13 @@ code: pmua
 
 ```python
 # 这是一个简单的Python代码示例
-def hello_world():
-    print("Hello, World!")
- 
-if __name__ == "__main__":
-    hello_world()
+@article{
+  title = {Detection Network for multi-size and multi-target tea bud leaves in the field of view via improved YOLOv7},
+  journal = {Computers and Electronics in Agriculture},
+  year = {2024},
+  issn = {0168-1699},
+  author = {Tianci Chen, Haoxin Li, Jiazheng Chen, Zhiheng Zeng, Chongyang Han, Weibin Wu}
+}
 
 ## Reference
 https://github.com/WongKinYiu/yolov7
